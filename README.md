@@ -1,2 +1,2 @@
 # CI_Crud
-Codeigniter CRUD
+Codeigniter CRUD with image
